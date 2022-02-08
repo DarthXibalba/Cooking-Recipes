@@ -1,4 +1,5 @@
 # Peanut Noodles Recipe (15 min lunch)
+Rating: :star::star::star: /5   
 [YouTube Link](https://youtu.be/7Yo54RiBUx0?t=690)  
 Fill up a sauce pan/pot and bring to boil (for noodles)  
 Put saute pan on medium low  
@@ -34,7 +35,7 @@ Put saute pan on medium low
 3. Put sauce on low heat for a bit
 
 ## Fresh Veggies
-- Green Onions / Scallions (4)
+- Green Onions / Scallions (3)
 - Cilantro (handful)
 
 1. Slice up green onions and cilantro
