@@ -10,7 +10,7 @@ Rating: :star::star::star::star: /5
 - Avocado (1)
 - Cilantro (as desired)
 - Garlic (1 clove)
-- Limes (2)
+- Lime (1)
 - Salt & Pepper
 - Splash of oil
 

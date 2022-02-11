@@ -23,6 +23,7 @@ Rating: :star::star::star::star::star: /5
 - Chicken Stock (4-6 tbsp)(1/4 - 1/3 cup)
 - Corn Starch (1 tbsp)
 
+*(Above portions are for 1 chicken breast, scale if necessary)*  
 Whisk into a brown sauce  
 
 ## Frying the Veggies
