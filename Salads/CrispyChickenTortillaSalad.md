@@ -1,4 +1,5 @@
 # Crispy Chicken & Tortilla Salad (15 min lunch)
+Rating: :star::star::star::star: /5  
 [YouTube Link](https://youtu.be/7Yo54RiBUx0?t=474)  
 
 1. Coat chicken breast in your favorite seasoning (or salt & pepper)

@@ -1,4 +1,5 @@
 # Chicken & Broccoli
+Rating: :star::star::star::star::star: /5   
 [YouTube Link](https://youtu.be/7Yo54RiBUx0?t=52)  
 
 1. Cook some rice in parallel
