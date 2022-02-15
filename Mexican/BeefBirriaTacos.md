@@ -1,5 +1,6 @@
 # Beef Birria Tacos
 Rating: :star::star::star::star::star: /5  
+[TikTok Link](https://vm.tiktok.com/TTPdBf9jEj/)  
 - Chuck Roast Beef (2 lbs, sliced into squares)
 - Beef Broth/Stock or Water (8 cups)
 - Garlic (4 cloves)
