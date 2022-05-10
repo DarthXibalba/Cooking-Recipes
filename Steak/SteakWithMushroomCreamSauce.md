@@ -1,5 +1,5 @@
 # Steak with Mushroom Cream Sauce
-Rating: ? /5  
+Rating: :star::star::star::star::star: /5  
 [YouTube Link](https://youtu.be/gy-Zs-q9WW8)  
 
 - Mushrooms (8 oz pack)
