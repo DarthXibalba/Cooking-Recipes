@@ -1,6 +1,6 @@
 # Salmon with Garlic Lemon Butter Sauce
-
-https://www.cookingclassy.com/skillet-seared-salmon-with-garlic-lemon-butter-sauce/
+Rating: :star::star::star: /5  
+[Link](https://www.cookingclassy.com/skillet-seared-salmon-with-garlic-lemon-butter-sauce/)
 
 ## Ingredients
 - **Salmon Fillets**

@@ -1,5 +1,5 @@
 # Creamy Mushroom Sauce
-Rating: ? /5  
+Rating: :star::star::star::star: /5  
 [YouTube Link](https://youtu.be/XVJB764Y1Uc)  
 
 - Mushrooms (1/2 lb or 200g)(10 mushrooms)
