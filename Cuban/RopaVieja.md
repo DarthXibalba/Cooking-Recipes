@@ -1,5 +1,5 @@
 # Ropa Vieja
-Rating: ? /5  
+Rating: 4/5  
 [TikTok Link](https://www.tiktok.com/@letskwoowk/video/7128457768037666053?_r=1&_t=8VfMfXZ8Xpz&is_from_webapp=v1&item_id=7128457768037666053)  
 [Recipe Link](https://recipe-integration.whisk.com/recipe-integration/view/107b008fa5d22394b32acc3f7575d17fcc9?utm_source=partner&utm_medium=tiktok&utm_campaign=recipe-integration)  
 
@@ -16,7 +16,7 @@ Rating: ? /5
 - Cumin (2 tbsp)
 - Smoked Paprika (2 tbsp)
 - Oregano (2 tbsp)
-- Allspice (1/2 tbsp)
+- Allspice (1/4 tbsp)
 - Green Olives (sliced)
 - Cilantro (for topping)
 
@@ -30,6 +30,6 @@ Rating: ? /5
 1. Add tomato paste and your can of crushed tomatoes, follow by the chicken broth
 1. Add all your seasonings and incorporate them before adding your browned steak back in.
 1. Cover with a lid and let simmer for 2 hrs.
-1. After 2 hrs, take out the steak and shred it using 2 forks. Then add the shredded beef back into the pot.
+1. After 2 hrs, take out the steak and shred it using 2 forks. Then add the shredded beef back into the pot. Stir intermittently to ensure the bottom of the sauce does not burn.
 1. Add green olives, and simmer everything for an additional 2-3 minutes.
 1. Serve with rice and black beans.
