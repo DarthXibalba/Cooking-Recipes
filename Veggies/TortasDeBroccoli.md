@@ -1,5 +1,5 @@
 # Broccoli Pizza
-Rating: ???/5  
+Rating: :star::star::star:/5  
 [Instagram Link](https://www.instagram.com/reel/CZ7hAg3gliI/?utm_medium=copy_link)  
 
 - Broccoli (Finely minced) (4 parts)

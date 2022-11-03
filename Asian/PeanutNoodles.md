@@ -1,5 +1,5 @@
 # Peanut Noodles Recipe (15 min lunch)
-Rating: :star::star::star: /5   
+Rating: :star: /5   
 [YouTube Link](https://youtu.be/7Yo54RiBUx0?t=690)  
 Fill up a sauce pan/pot and bring to boil (for noodles)  
 Put saute pan on medium low  

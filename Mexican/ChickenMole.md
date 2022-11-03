@@ -1,5 +1,5 @@
 # Chicken Mole
-Rating: ? /5
+Rating: :star::star::star: /5
 [YouTube Link](https://youtu.be/EGv819tilcw)
 
 Ingredients: 7 servings  

@@ -9,6 +9,7 @@ Rating: :star::star::star::star::star: /5
 - Onion Powder (1 tsp)
 - Garlic Powder (1 tsp)
 - Black Pepper (1 tsp)
+- Chili Powder (1 tsp)*(optional)*
 - Sazón Goya *(Con Culantro y Achiote)*(1 packet)
 - Salt (0.5-1 tsp)
 - Bouillon Cubes *(Knorr Caldo Con Sabor de Res)*(2 big cubes)
