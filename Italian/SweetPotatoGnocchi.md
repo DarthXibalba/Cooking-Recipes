@@ -1,5 +1,5 @@
 # Herby Sweet Potato Gnocchi
-Rating: 4/5  
+Rating: :star::star: /5  
 [TikTok Link](https://www.tiktok.com/@letskwoowk/video/7128457768037666053?_t=8VfMfXZ8Xpz&_r=1)  
 [Recipe Link](https://recipe-integration.whisk.com/recipe-integration/view/107e6a2cb829c7e44a1853323c2f93b1bb3?utm_source=partner&utm_campaign=recipe-integration)  
 

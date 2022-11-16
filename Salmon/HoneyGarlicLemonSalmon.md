@@ -1,4 +1,4 @@
-# Honey Garlic Lemon Salmon.md
+# Honey Garlic Lemon Salmon
 Rating :star::star::star::star::star: /5
 [YouTube Link](https://youtu.be/vAziD9FWF08)
 
