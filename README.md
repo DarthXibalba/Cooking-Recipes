@@ -47,6 +47,9 @@ A simple repository for all my favorite cooking recipes and those I'd like to tr
 
 
 ## Recipe Index (Need to try)
+- Appetizers
+    - [Crispy Truffle Parmesan Fries](Appetizers/CrispyTruffleParmesanFries.md)
+
 - Indian
     - [Tikka Masala Soup](Indian/TikkaMasalaSoup.md)
 
