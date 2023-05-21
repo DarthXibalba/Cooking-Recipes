@@ -1,4 +1,4 @@
-# CookingRecipes
+# Cooking Recipes
 A simple repository for all my favorite cooking recipes and those I'd like to try to make.  
 
 ## Recipe Index (Tried & Tested)

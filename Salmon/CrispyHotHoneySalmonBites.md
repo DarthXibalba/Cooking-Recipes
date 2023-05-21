@@ -1,5 +1,7 @@
 # Crispy Hot Honey Salmon Bites
-<img  src="images/crispy-hot-honey-salmon-bites.jpg" width="300" height="400">  
+<p align="center">
+  <img src="images/crispy-hot-honey-salmon-bites.jpg" width="300" height="400">
+</p>
 
 Rating: ? /5  
 [Instagram Link](https://www.instagram.com/reel/CrTkE0nATGs/?igshid=MzRlODBiNWFlZA%3D%3D)  
