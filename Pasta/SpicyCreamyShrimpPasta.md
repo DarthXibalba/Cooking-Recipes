@@ -1,5 +1,5 @@
 # [Spicy Creamy Shrimp Pasta](https://youtu.be/JDFyVUKX9h0?t=24)
-Rating: ? / 5  
+Rating: :star::star::star::star: / 5  
 
 ## Ingredients
 - Pasta {Penne, Papadella?, Fettucine, Linguini, etc} (1/2 Box)

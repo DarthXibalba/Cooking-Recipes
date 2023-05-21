@@ -1,4 +1,5 @@
 # Chocolate Covered Strawberries :chocolate_bar::strawberry:
+Rating: :star::star::star::star::star: /5  
 [Recipe Link](https://tastesbetterfromscratch.com/gourmet-chocolate-covered-strawberries/)  
 The quality of chocolate is really important, so go with higher quality **Baking Chocolate** such as Ghirardelli baking chips or Baker's Baking Chocolate
 

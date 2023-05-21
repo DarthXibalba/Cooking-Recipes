@@ -1,5 +1,5 @@
 # Chicken Alfredo Pasta
-Rating: ? /5  
+Rating: :star::star:star::star: /5  
 [YouTube Link](https://youtu.be/ROFRjeCcda4?t=120)  
 
 ## Chicken Prep
@@ -18,7 +18,7 @@ Rating: ? /5
 
 ## Alfredo Sauce
 - (70%-90%) of a cubic inch of butter
-- Equal amount of whipping cream
+- Equal amount of whipping cream / heavy cream
 - (Optional) Splash of Vodka or Chinese Cooking oil (2-3 tbsp)
 - Equal amount of parmesan cheese
 1. Let everything mix and thicken in a heated pan

@@ -1,5 +1,5 @@
 # Ropa Vieja
-Rating: 4/5  
+Rating: :star::star::star::star: /5  
 [TikTok Link](https://www.tiktok.com/@letskwoowk/video/7128457768037666053?_r=1&_t=8VfMfXZ8Xpz&is_from_webapp=v1&item_id=7128457768037666053)  
 [Recipe Link](https://recipe-integration.whisk.com/recipe-integration/view/107b008fa5d22394b32acc3f7575d17fcc9?utm_source=partner&utm_medium=tiktok&utm_campaign=recipe-integration)  
 

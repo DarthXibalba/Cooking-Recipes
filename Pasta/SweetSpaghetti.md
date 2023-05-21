@@ -1,12 +1,12 @@
 # [Sweet Spaghetti](https://youtu.be/T_E479ZTEqg?t=87)
-Rating: :star::star::star::star: / 5
+Rating: :star::star::star::star::star: / 5
 
 ## Ingredients
 - Pasta (1 pack of spaghetti noodles)
 - Olive Oil (3 tbsp)
 - Garlic (4 cloves, minced)
 - White Onion (1/3 cup, minced)
-- Meat (1 lb of ground pork + 8 red sausages)
+- Meat (1 lb of ground pork + 8 red sausages, or use Costco Chicken Meatballs)
 - Diced carrots or red bell peppers
 - Tomato Paste (2 tbsp)
 - Tomato Sauce (1.5 cups)

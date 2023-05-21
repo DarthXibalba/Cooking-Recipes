@@ -1,4 +1,4 @@
-# Steak with Mushroom Cream Sauce
+# Steak with Creamy Mushroom Sauce
 Rating: :star::star::star::star::star: /5  
 [YouTube Link](https://youtu.be/gy-Zs-q9WW8)  
 

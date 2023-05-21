@@ -1,5 +1,5 @@
 # Lemon Pepper Chicken Wings
-Rating: ? /5  
+Rating: :star::star::star::star: /5  
 [Instagram Link](https://www.instagram.com/reel/Cjsmp4Vvxgu/?igshid=Nzg3NjI1NGI%3D)  
 
 - Chicken Wings or Thighs (1.5 lbs)

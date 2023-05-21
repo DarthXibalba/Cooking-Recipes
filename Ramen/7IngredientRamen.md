@@ -1,5 +1,5 @@
-# 7 Common Ingredients Ramen
-Rating: ? /5  
+# 7-Ingredient Ramen
+Rating: :star::star::star::star::star: /5  
 [YouTube Link](https://youtu.be/9gNIqtmYg5o?t=50)  
 
 ## Ingredients to make 2 Bowls

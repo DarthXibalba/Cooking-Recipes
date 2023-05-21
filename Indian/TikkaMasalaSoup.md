@@ -1,4 +1,4 @@
-# Steak with Mushroom Cream Sauce
+# Tikka Masala Soup
 Rating: ? /5  
 [Website Link](https://themodernproper.com/tikka-masala-soup)  
 
@@ -21,7 +21,7 @@ Rating: ? /5
 + Chicken
 
 ## Summary Instructions
-1. Sauté garlic &* onion in coconut oil
+1. Sauté garlic & onion in coconut oil
 2. Bloom the spices
 3. Pour in chicken stock, coconut milk, and tomatoes
 4. Use an immersion blender to purée the soup until its creamy
