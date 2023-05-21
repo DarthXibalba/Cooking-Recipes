@@ -1,5 +1,5 @@
 # Honey Garlic Lemon Salmon
-Rating :star::star::star::star::star: /5  
+Rating: :star::star::star::star::star: /5  
 [YouTube Link](https://youtu.be/vAziD9FWF08)
 
 - 2 Salmon Fillets (about 5 oz each)

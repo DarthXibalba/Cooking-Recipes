@@ -1,5 +1,5 @@
 # Cajun Salmon Bites
-Rating :star::star::star::star::star: /5  
+Rating: :star::star::star::star::star: /5  
 [Instagram Link](https://www.instagram.com/reel/CjJTWWaNsax/?igshid=NjQxMzA2Mjk%3D)  
 [Whisk Recipe Link](https://my.whisk.com/recipes/107a9f33ef648c04f3984724ed33f46bdf7)  
 
