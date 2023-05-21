@@ -52,3 +52,8 @@ A simple repository for all my favorite cooking recipes and those I'd like to tr
 
 - Salmon
     - [Crispy Hot Honey Salmon Bites](Salmon/CrispyHotHoneySalmonBites.md)
+
+## Notable Recipe Websites
+#### [The Savory Chopstick](https://www.thesavorychopstick.com/)
+#### [A Bright Moment](https://www.abrightmoment.com/recipes)
+#### [Whisk: KWOOWK](https://recipe-integration.whisk.com/u/kwoowk)

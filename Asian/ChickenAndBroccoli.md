@@ -1,4 +1,8 @@
 # Chicken & Broccoli
+<p align="center">
+  <img src="images/chicken-and-broccoli.png" width="400" height="250">
+</p>
+
 Rating: :star::star::star::star: /5  
 [YouTube Link](https://youtu.be/7Yo54RiBUx0?t=52)  
 

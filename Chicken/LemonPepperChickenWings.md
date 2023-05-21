@@ -1,6 +1,11 @@
 # Lemon Pepper Chicken Wings
+<p align="center">
+  <img src="images/lemon-pepper-chicken-wings.jpg" width="280" height="400">
+</p>
+
 Rating: :star::star::star::star: /5  
 [Instagram Link](https://www.instagram.com/reel/Cjsmp4Vvxgu/?igshid=Nzg3NjI1NGI%3D)  
+[Recipe Link](https://www.thesavorychopstick.com/lemon-pepper-chicken/)
 
 - Chicken Wings or Thighs (1.5 lbs)
 - Lemon Pepper Seasoning (1/2 tbsp)

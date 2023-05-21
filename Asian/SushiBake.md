@@ -1,4 +1,7 @@
 # Sushi Bake - Krizzia's Recipe
+<p align="center">
+  <img src="images/sushibake.jpg" width="300" height="200">
+</p>
 Rating: :star::star::star::star::star:  
 
 1. Defrost the salmon
