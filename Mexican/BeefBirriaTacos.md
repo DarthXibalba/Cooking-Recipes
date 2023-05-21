@@ -1,4 +1,8 @@
 # Beef Birria Tacos
+<p align="center">
+  <img src="images/beef-birria-tacos.jpg" width="300" height="400">
+</p>
+
 Rating: :star::star::star::star::star: /5  
 [TikTok Link](https://vm.tiktok.com/TTPdBf9jEj/)  
 - Chuck Roast Beef (2 lbs, sliced into squares)

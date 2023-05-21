@@ -1,4 +1,8 @@
 # Chicken Mole
+<p align="center">
+  <img src="images/chicken-mole.jpg" width="400" height="300">
+</p>
+
 Rating: :star::star::star: /5
 [YouTube Link](https://youtu.be/EGv819tilcw)
 

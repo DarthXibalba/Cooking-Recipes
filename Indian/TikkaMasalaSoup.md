@@ -1,4 +1,8 @@
 # Tikka Masala Soup
+<p align="center">
+  <img src="images/tikka-masala-soup.jpg" width="300" height="400">
+</p>
+
 Rating: ? /5  
 [Website Link](https://themodernproper.com/tikka-masala-soup)  
 

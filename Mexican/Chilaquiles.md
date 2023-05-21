@@ -1,4 +1,8 @@
 # Chilaquiles
+<p align="center">
+  <img src="images/chilaquiles.jpg" width="400" height="300">
+</p>
+
 Rating: :star::star::star::star::star: /5  
 - 15 :corn: Tortillas
 - Vegetable Oil
@@ -29,4 +33,5 @@ Rating: :star::star::star::star::star: /5
 1. Add tortilla chips & turn up heat to preserve crunch, mix evenly for a few minutes
 2. (Optional) Add cooked shredded beef or pork
 3. Cover with diced or shredded cheese & cover to let the heat melt the cheese
-4. (Optional) Serve with sliced avocado
+4. (Optional) Cover with sunny-side-up egg
+5. (Optional) Serve with sliced avocado
