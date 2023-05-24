@@ -50,6 +50,9 @@ A simple repository for all my favorite cooking recipes and those I'd like to tr
 - Appetizers
     - [Crispy Truffle Parmesan Fries](Appetizers/CrispyTruffleParmesanFries.md)
 
+- Breakfast
+    - [Savory Ham and Egg Breakfast Sliders](Breakfast/SavoryHamAndEggBreakfastSliders.md)
+
 - Indian
     - [Tikka Masala Soup](Indian/TikkaMasalaSoup.md)
 
