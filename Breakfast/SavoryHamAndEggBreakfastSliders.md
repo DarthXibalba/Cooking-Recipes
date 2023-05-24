@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  <img src="stars.svg" width="100%" alt="Rating">
+  <img src="unknown-rating.svg" width="100%" alt="Rating">
 </div>
 
 <div align="center">
