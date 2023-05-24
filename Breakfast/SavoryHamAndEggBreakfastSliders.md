@@ -3,32 +3,21 @@
   <img src="images/savory-ham-egg-breakfast-sliders.jpg" width="300" height="400">
 </p>
 
-<div align="center" style="font-size: 24px;">
-  Rating:
-  <span style="color: #FFD700;">★</span>
-  <span style="color: #FFD700;">★</span>
-  <span style="color: #FFD700;">★</span>
-  <span style="color: #FFD700;">★</span>
-  <span style="color: #FFD700;">★</span>
-  /5
+<div align="center">
+  <img src="stars.svg" width="100%" alt="Rating">
 </div>
 
+<div align="center">
+  <a href="https://www.abrightmoment.com/recipes/savory-ham-egg-breakfast-sliders">
+    <img src="recipe-button.svg" alt="Recipe Link">
+  </a>
+</div>
 
-<a href="https://www.abrightmoment.com/recipes/savory-ham-egg-breakfast-sliders">
-  <button style="font-size: 18px; padding: 10px 20px; background-color: #0074D9; color: white; border: none; border-radius: 4px; cursor: pointer;">
-    Recipe Link
-  </button>
-</a>
-
-<br>
-
-<a href="https://youtu.be/-8hLKZqaynY">
-  <button style="font-size: 18px; padding: 10px 20px; background-color: #0074D9; color: white; border: none; border-radius: 4px; cursor: pointer;">
-    YouTube Link
-  </button>
-</a>
-
-<br>
+<div align="center">
+  <a href="https://youtu.be/-8hLKZqaynY">
+    <img src="youtube-button.svg" alt="YouTube Link">
+  </a>
+</div>
 
 ## Ingredients
 | Ingredient | Quantity |
