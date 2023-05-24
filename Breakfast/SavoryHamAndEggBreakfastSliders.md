@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="unknown-rating.svg" alt="Unknown Rating" style="--text-color: #0074D9;">
+  <img src="unknown-rating.svg" alt="Unknown Rating" style="color: #0074D9;">
 </div>
 
 <div align="center">
