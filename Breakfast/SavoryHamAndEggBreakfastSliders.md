@@ -4,7 +4,11 @@
 </p>
 
 <div align="center">
-  <img src="unknown-rating.svg" width="100%" alt="Rating">
+  <img src="stars.svg" alt="Rating">
+</div>
+
+<div align="center">
+  <img src="unknown-rating.svg" alt="Unknown Rating" style="--text-color: #0074D9;">
 </div>
 
 <div align="center">
@@ -12,6 +16,8 @@
     <img src="recipe-button.svg" alt="Recipe Link">
   </a>
 </div>
+
+<br>
 
 <div align="center">
   <a href="https://youtu.be/-8hLKZqaynY">
