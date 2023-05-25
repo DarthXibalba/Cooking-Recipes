@@ -4,6 +4,14 @@
 </p>
 
 <div align="center">
+  <img src="../graphics/svg/3-stars.svg" alt="Unknown Rating">
+</div>
+
+<div align="center">
+  <img src="../graphics/svg/4-stars.svg" alt="Unknown Rating">
+</div>
+
+<div align="center">
   <img src="../graphics/svg/5-stars.svg" alt="Unknown Rating">
 </div>
 
