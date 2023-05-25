@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="40" viewBox="0 0 200 40">
+  <defs>
+    <radialGradient id="rect-gradient" cx="50%" cy="50%" r="250%" fx="40%" fy="40%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+    </radialGradient>
+  </defs>
+  <rect width="200" height="40" rx="4" fill="url(#rect-gradient)"/>
+  <text x="100" y="24" font-size="18" text-anchor="middle" fill="white" font-family="Roboto, Arial, sans-serif">TikTok Link</text>
+</svg>

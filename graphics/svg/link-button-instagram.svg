@@ -6,5 +6,5 @@
     </linearGradient>
   </defs>
   <rect width="200" height="40" rx="4" fill="url(#rect-gradient)"/>
-  <text x="100" y="24" font-size="18" text-anchor="middle" fill="white">Instagram Link</text>
+  <text x="100" y="24" font-size="18" text-anchor="middle" fill="white" font-family="Roboto, Arial, sans-serif">Instagram Link</text>
 </svg>
