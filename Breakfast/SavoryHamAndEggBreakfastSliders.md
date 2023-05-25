@@ -21,30 +21,7 @@
 
 
 ## Ingredients
-<style>
-table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-th, td {
-  padding: 8px;
-  text-align: left;
-  border-bottom: 1px solid #ddd;
-}
-
-th {
-  background-color: #f2f2f2;
-}
-
-tr:nth-child(even) {
-  background-color: #f9f9f9;
-}
-
-td:nth-child(3) {
-  font-style: italic;
-}
-</style>
+<br>
 
 | Ingredient | Quantity | Additional Notes |
 | --- | --- | --- |
