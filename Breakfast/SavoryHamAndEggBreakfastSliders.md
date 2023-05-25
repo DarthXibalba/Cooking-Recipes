@@ -7,6 +7,8 @@
   <img src="../graphics/svg/stars-unknown.svg" alt="Rating">
 </div>
 
+<br>
+
 <div align="center">
   <a href="https://www.abrightmoment.com/recipes/savory-ham-egg-breakfast-sliders">
     <img src="../graphics/svg/link-button-recipe.svg" alt="Recipe Link">
