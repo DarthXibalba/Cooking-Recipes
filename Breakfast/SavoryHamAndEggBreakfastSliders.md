@@ -4,14 +4,14 @@
 </p>
 
 <div align="center">
-  <img src="../svg/unknown-rating.svg" alt="Unknown Rating">
+  <img src="../graphics/svg/5-stars.svg" alt="Unknown Rating">
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://www.abrightmoment.com/recipes/savory-ham-egg-breakfast-sliders">
-    <img src="../svg/recipe-button.svg" alt="Recipe Link">
+    <img src="../graphics/svg/recipe-button.svg" alt="Recipe Link">
   </a>
 </div>
 
@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://youtu.be/-8hLKZqaynY">
-    <img src="../svg/youtube-button.svg" alt="YouTube Link">
+    <img src="../graphics/svg/youtube-button.svg" alt="YouTube Link">
   </a>
 </div>
 
