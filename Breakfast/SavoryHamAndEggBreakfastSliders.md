@@ -27,93 +27,18 @@
 <br>
 
 ## Ingredients
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-  
-  th, td {
-    padding: 10px 15px;
-    text-align: left;
-    border-bottom: 1px solid #ddd;
-  }
-  
-  th {
-    background-color: #f2f2f2;
-    font-weight: bold;
-  }
-  
-  tr:hover {
-    background-color: #f5f5f5;
-  }
-  
-  .notes {
-    font-size: 14px;
-    color: #888;
-    font-style: italic;
-  }
-</style>
-
-# Savory Ham & Egg Breakfast Sliders
-## Ingredients
-<table>
-  <tr>
-    <th>Ingredient</th>
-    <th>Quantity</th>
-    <th>Additional Notes</th>
-  </tr>
-  <tr>
-    <td>Hawaiian Rolls</td>
-    <td>12 rolls</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Sliced Ham</td>
-    <td>1 lb</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Olive Oil</td>
-    <td>1 tbsp</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Eggs</td>
-    <td>12</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Milk</td>
-    <td>1/4 cup</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Fresh Chives</td>
-    <td>2 tbsp</td>
-    <td class="notes">finely chopped</td>
-  </tr>
-  <tr>
-    <td>Cheddar</td>
-    <td>3/4 lb</td>
-    <td class="notes">sliced or shredded</td>
-  </tr>
-  <tr>
-    <td>Maple Syrup</td>
-    <td>1 tbsp</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Dijon Mustard</td>
-    <td>1 tbsp</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Poppyseeds</td>
-    <td>1 tbsp</td>
-    <td></td>
-  </tr>
-</table>
+| Ingredient | Quantity | Additional Notes |
+| --- | --- | --- |
+| Hawaiian Rolls | 12 rolls |
+| Sliced Ham | 1 lb |
+| Olive Oil | 1 tbsp |
+| Eggs | 12 |
+| Milk | 1/4 cup |
+| Fresh Chives | 2 tbsp | finely chopped |
+| Cheddar | 3/4 lb | sliced or shredded |
+| Maple Syrup | 1 tbsp |
+| Dijon Mustard | 1 tbsp |
+| Poppyseeds | 1 tbsp |
 
 
 ## Instructions
