@@ -2,13 +2,10 @@
 <p align="center">
   <img src="images/savory-ham-egg-breakfast-sliders.jpg" width="300" height="400">
 </p>
-<br>
 
 <div align="center">
   <img src="../graphics/svg/stars-unknown.svg" alt="Unknown Rating">
 </div>
-
-<br>
 
 <div align="center">
   <a href="https://www.abrightmoment.com/recipes/savory-ham-egg-breakfast-sliders">
@@ -16,17 +13,39 @@
   </a>
 </div>
 
-<br>
-
 <div align="center">
   <a href="https://youtu.be/-8hLKZqaynY">
     <img src="../graphics/svg/link-button-youtube.svg" alt="YouTube Link">
   </a>
 </div>
 
-<br>
 
 ## Ingredients
+<style>
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+td:nth-child(3) {
+  font-style: italic;
+}
+</style>
+
 | Ingredient | Quantity | Additional Notes |
 | --- | --- | --- |
 | Hawaiian Rolls | 12 rolls |
