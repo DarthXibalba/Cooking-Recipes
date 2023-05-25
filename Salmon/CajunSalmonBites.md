@@ -1,6 +1,6 @@
 # Cajun Salmon Bites
 <p align="center">
-  <img src="images/cajun-salmon-bites.jpg" width="300" height="400">
+  <img src="images/cajun-salmon-bites.jpg" width="240" height="400">
 </p>
 
 <div align="center">
