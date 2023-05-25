@@ -3,47 +3,47 @@ A simple repository for all my favorite cooking recipes and those I'd like to tr
 
 ## Recipe Index (Tried & Tested)
 - Asian
-    - [Chicken And Broccoli](Asian/ChickenAndBroccoli.md) (:star::star::star::star:)
-    - [Japchae](Asian/Japchae.md) (:star::star::star::star::star:)
-    - [Sushi Bake](Asian/SushiBake.md) (:star::star::star::star::star:)
+    - [Chicken And Broccoli](Asian/ChickenAndBroccoli.md) (⭐️⭐️⭐️⭐️)
+    - [Japchae](Asian/Japchae.md) (⭐️⭐️⭐️⭐️⭐️)
+    - [Sushi Bake](Asian/SushiBake.md) (⭐️⭐️⭐️⭐️⭐️)
 
 - Chicken
-    - [Lemon Pepper Chicken Wings](Chicken/LemonPepperChickenWings.md) (:star::star::star::star:)
+    - [Lemon Pepper Chicken Wings](Chicken/LemonPepperChickenWings.md) (⭐️⭐️⭐️⭐️)
 
 - Cuban
-    - [Ropa Vieja](Cuban/RopaVieja.md) (:star::star::star::star:)
+    - [Ropa Vieja](Cuban/RopaVieja.md) (⭐️⭐️⭐️⭐️)
 
 - Desserts
-    - [Chocolate Strawberries](Desserts/ChocolateStrawberries.md) (:star::star::star::star::star:)
+    - [Chocolate Strawberries](Desserts/ChocolateStrawberries.md) (⭐️⭐️⭐️⭐️⭐️)
 
 - Mexican
-    - [Beef Birria Tacos](Mexican/BeefBirriaTacos.md) (:star::star::star::star::star:)
-    - [Chicken Mole](Mexican/ChickenMole.md) (:star::star::star:)
-    - [Chilaquiles](Mexican/Chilaquiles.md) (:star::star::star::star::star:)
+    - [Beef Birria Tacos](Mexican/BeefBirriaTacos.md) (⭐️⭐️⭐️⭐️⭐️)
+    - [Chicken Mole](Mexican/ChickenMole.md) (⭐️⭐️⭐️)
+    - [Chilaquiles](Mexican/Chilaquiles.md) (⭐️⭐️⭐️⭐️⭐️)
 
 - Pasta
-    - [Chicken Alfredo](Pasta/ChickenAlfredo.md) (:star::star::star::star:)
-    - [Spicy Creamy Shrimp Pasta](Pasta/SpicyCreamyShrimpPasta.md) (:star::star::star::star:)
-    - [Sweet Spaghetti](Pasta/SweetSpaghetti.md) (:star::star::star::star::star:)
+    - [Chicken Alfredo](Pasta/ChickenAlfredo.md) (⭐️⭐️⭐️⭐️)
+    - [Spicy Creamy Shrimp Pasta](Pasta/SpicyCreamyShrimpPasta.md) (⭐️⭐️⭐️⭐️)
+    - [Sweet Spaghetti](Pasta/SweetSpaghetti.md) (⭐️⭐️⭐️⭐️⭐️)
 
 - Ramen
-    - [7 Ingredient Ramen](Ramen/7IngredientRamen.md) (:star::star::star::star::star:)
+    - [7 Ingredient Ramen](Ramen/7IngredientRamen.md) (⭐️⭐️⭐️⭐️⭐️)
 
 - Salads
-    - [Crispy Chicken Tortilla Salad](Salads/CrispyChickenTortillaSalad.md) (:star::star::star::star::star:)
+    - [Crispy Chicken Tortilla Salad](Salads/CrispyChickenTortillaSalad.md) (⭐️⭐️⭐️⭐️⭐️)
 
 - Salmon
-    - [Cajun Salmon Bites](Salmon/CajunSalmonBites.md) (:star::star::star::star::star:)
-    - [Honey Garlic Lemon Salmon](Salmon/HoneyGarlicLemonSalmon.md) (:star::star::star::star::star:)
+    - [Cajun Salmon Bites](Salmon/CajunSalmonBites.md) (⭐️⭐️⭐️⭐️⭐️)
+    - [Honey Garlic Lemon Salmon](Salmon/HoneyGarlicLemonSalmon.md) (⭐️⭐️⭐️⭐️⭐️)
 
 - Sauces
-    - [Creamy Mushroom Sauce](Sauces/CreamyMushroomSauce.md) (:star::star::star::star:)
+    - [Creamy Mushroom Sauce](Sauces/CreamyMushroomSauce.md) (⭐️⭐️⭐️⭐️)
 
 - Steak
-    - [Steak With Creamy Mushroom Sauce](Steak/SteakWithCreamyMushroomSauce.md) (:star::star::star::star::star:)
+    - [Steak With Creamy Mushroom Sauce](Steak/SteakWithCreamyMushroomSauce.md) (⭐️⭐️⭐️⭐️)
 
 - Veggies
-    - [Honey Balsamic Roasted Brussel Sprouts](Veggies/HoneyBalsamicRoastedBrusselSprouts.md) (:star::star::star::star::star:)
+    - [Honey Balsamic Roasted Brussel Sprouts](Veggies/HoneyBalsamicRoastedBrusselSprouts.md) (⭐️⭐️⭐️⭐️⭐️)
 
 
 ## Recipe Index (Need to try)

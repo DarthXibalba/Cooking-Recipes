@@ -1,7 +1,23 @@
 # Cajun Salmon Bites
-Rating: :star::star::star::star::star: /5  
-[Instagram Link](https://www.instagram.com/reel/CjJTWWaNsax/?igshid=NjQxMzA2Mjk%3D)  
-[Whisk Recipe Link](https://my.whisk.com/recipes/107a9f33ef648c04f3984724ed33f46bdf7)  
+<p align="center">
+  <img src="images/cajun-salmon-bites.jpg" width="300" height="400">
+</p>
+
+<div align="center">
+  <img src="../graphics/svg/stars-5.svg" alt="Rating">
+</div>
+
+<div align="center">
+  <a href="https://my.whisk.com/recipes/107a9f33ef648c04f3984724ed33f46bdf7">
+    <img src="../graphics/svg/link-button-recipe.svg" alt="Recipe Link">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.instagram.com/reel/CjJTWWaNsax/?igshid=NjQxMzA2Mjk%3D">
+    <img src="../graphics/svg/link-button-instagram.svg" alt="Instagram Link">
+  </a>
+</div>
 
 ## Ingredients
 - Meat

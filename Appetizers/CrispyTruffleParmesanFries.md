@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <img src="../graphics/svg/stars-unknown.svg" alt="Unknown Rating">
+  <img src="../graphics/svg/stars-unknown.svg" alt="Rating">
 </div>
 
 <br>
