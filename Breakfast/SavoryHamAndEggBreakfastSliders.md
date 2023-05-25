@@ -24,8 +24,6 @@
 <br>
 
 ## Ingredients
-<br>
-
 | Ingredient | Quantity | Additional Notes |
 | --- | --- | --- |
 | Hawaiian Rolls | 12 rolls |

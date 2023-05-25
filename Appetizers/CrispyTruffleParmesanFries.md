@@ -20,20 +20,27 @@
 <br>
 
 ## Ingredients
-- Large Russet Potatoes (4-6)
-- Truffle Olive Oil (1/4 cup)
-- Grated Parmesan (1/2 cup)
-- Kosher Sea Salt (1 tbsp)
-- Fresh Parsley (1-2 tbsp, chopped)
-- Frying Oil
+| Ingredient | Quantity | Additional Notes |
+| --- | --- | --- |
+| Large Russet Potatoes | 4-6 |
+| Truffle Olive Oil | 1/4 cup |
+| Grated Parmesan | 1/2 cup |
+| Kosher Sea Salt | 1 tbsp |
+| Fresh Parsley | 1-2 tbsp | chopped |
+| Frying Oil |  |
+
+<br>
 
 ### Ingredients for the Garlic Chipotle Aioli
-- Mayonnaise or Plain Greek Yogurt (1/4 cup)
-- Garlic Clove (1, grated or pressed)
-- Lemon Juice (1 lemon)
-- Chipotle Powder (1/4 tsp)
-- Kosher Sea Salt (1/4 tsp)
-- Black Pepper (1/4 tsp)
+| Ingredient | Quantity | Additional Notes |
+| --- | --- | --- |
+| Mayonnaise or Plain Greek Yogurt | 1/4 cup |
+| Garlic Clove | 1 | grated or pressed |
+| Lemon Juice | 1 lemon |
+| Chipotle Powder | 1/4 tsp |
+| Kosher Sea Salt | 1/4 tsp |
+| Black Pepper | 1/4 tsp |
+
 
 ## Instructions
 1. **To Make the Aioli:** Simply combine all ingredients together. Adjust seasoning to taste. Store in the fridge until ready to serve.
