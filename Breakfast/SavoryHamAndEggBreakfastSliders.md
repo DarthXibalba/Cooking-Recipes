@@ -25,12 +25,6 @@
 
 <br>
 
-<div align="center">
-  <a href="https://youtu.be/-8hLKZqaynY">
-    <img src="../graphics/svg/link-button-instagram.svg" alt="Instagram Link">
-  </a>
-</div>
-
 ## Ingredients
 | Ingredient | Quantity |
 | --- | --- |
