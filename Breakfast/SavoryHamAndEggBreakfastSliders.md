@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://www.abrightmoment.com/recipes/savory-ham-egg-breakfast-sliders">
-    <img src="../graphics/svg/recipe-button.svg" alt="Recipe Link">
+    <img src="../graphics/svg/link-button-recipe.svg" alt="Recipe Link">
   </a>
 </div>
 
@@ -19,7 +19,15 @@
 
 <div align="center">
   <a href="https://youtu.be/-8hLKZqaynY">
-    <img src="../graphics/svg/youtube-button.svg" alt="YouTube Link">
+    <img src="../graphics/svg/link-button-youtube.svg" alt="YouTube Link">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://youtu.be/-8hLKZqaynY">
+    <img src="../graphics/svg/link-button-instagram.svg" alt="Instagram Link">
   </a>
 </div>
 
