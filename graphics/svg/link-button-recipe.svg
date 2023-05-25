@@ -2,7 +2,7 @@
   <defs>
     <linearGradient id="rect-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#2F4F4F"/>
-      <stop offset="100%" stop-color="#696969"/>
+      <stop offset="100%" stop-color="#00E5FF"/>
     </linearGradient>
   </defs>
   <rect width="200" height="40" rx="4" fill="url(#rect-gradient)"/>
