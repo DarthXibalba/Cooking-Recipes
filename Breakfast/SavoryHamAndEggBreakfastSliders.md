@@ -2,6 +2,7 @@
 <p align="center">
   <img src="images/savory-ham-egg-breakfast-sliders.jpg" width="300" height="400">
 </p>
+<br>
 
 <div align="center">
   <img src="../graphics/svg/stars-unknown.svg" alt="Unknown Rating">

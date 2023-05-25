@@ -3,8 +3,21 @@
   <img src="images/crispy-truffle-parmesan-fries.jpg" width="300" height="400">
 </p>
 
-Rating: ? /5  
-[Recipe Link](https://www.abrightmoment.com/recipes/crispy-homemade-truffle-parmesan-fries)  
+<br>
+
+<div align="center">
+  <img src="../graphics/svg/stars-unknown.svg" alt="Unknown Rating">
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.abrightmoment.com/recipes/crispy-homemade-truffle-parmesan-fries">
+    <img src="../graphics/svg/link-button-recipe.svg" alt="Recipe Link">
+  </a>
+</div>
+
+<br>
 
 ## Ingredients
 - Large Russet Potatoes (4-6)
