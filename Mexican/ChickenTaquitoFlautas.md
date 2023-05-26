@@ -31,13 +31,12 @@
 | Potatoes | 2 |
 | Onion | 1/2 white onion |
 | Queso Fresco or Queso Oaxaca | 1/2 cup |
-| Cream cheese | 1/2 cup |
+| Sour Cream | 1/2 cup |
 | Carrots | - | optional |
 | Paprika |
-| Adobo |
 | Garlic powder |
 | Salt |
-| Asado Adobo |
+| Adobo |
 
 ### Ingredients for Salsa Verde
 | Ingredient | Quantity |
@@ -49,11 +48,12 @@
 | Garlic Powder | 1/2 tsp |
 
 ### Ingredients for Pico de Gallo
-| Ingredient | Quantity |
-| --- | --- |
+| Ingredient | Quantity | Additional Notes |
+| --- | --- | --- |
 | Onion | 1/2 - 1 chile |
 | Tomato | 1/4 white onion |
 | Jalapeño or Serrano | 2 |
+| Cilantro | - | optional |
 | Lime Juice | 1/2 - 1 lime |
 
 ## Instructions
