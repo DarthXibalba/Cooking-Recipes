@@ -3,30 +3,43 @@
   <img src="images/japchae.jpg" width="300" height="400">
 </p>
 
-Rating: :star::star::star::star::star: /5  
-[Recipe Link](https://www.koreanbapsang.com/japchae-korean-stir-fried-starch/)  
+<div align="center">
+  <img src="../graphics/svg/stars-5.svg" alt="Rating">
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.koreanbapsang.com/japchae-korean-stir-fried-starch/">
+    <img src="../graphics/svg/link-button-recipe.svg" alt="Recipe Link">
+  </a>
+</div>
+
+<br>
 
 ## Ingredients
-- Korean Potato Starch Noodles (dangmyeon, 7 oz)
-- Carrot (1 large carrot or about 3 oz)
-- Onion, preferably sweet variety (1/2 of medium onion or 4-5 oz)
-- Scallions (2)
-- Lean Tender Beef (4 oz) (sirloin, chuck tender, rib eye, etc)
-    - *[or pork loin]*
-- Shiitake Mushrooms (3-4 oz) (or 4-5 dried shiitake, soaked until plump)
-    - *or oyster mushrooms, wood ear mushrooms or button mushrooms*
-- Fresh Spinach (6 oz, preferably a bunch of spinach)
-- Oil for stir frying
-- Salt
-- Egg Garnish (jidan) - *optional*
+| Ingredient | Quantity | Additional Notes |
+| --- | --- | --- |
+| Korean Potato Starch Noodles | 7 oz | dangmyeon |
+| Carrot | 3 oz | or about 1 large carrot |
+| Onion | 1/2 of medium onion (4 ~ 5oz) | preferably sweet variety |
+| Scallions | 2 |
+| Lean Tender Beef | 4 oz | sirloin, chuck tender, rib eye, or pork loin |
+| Shiitake Mushrooms | 3-4 oz (or 4-5 dried shiitake, soaked until plump) | or oyster mushrooms, wood ear mushrooms or button mushrooms |
+| Fresh Spinach | 6 oz | preferably a bunch of spinach |
+| Oil for stir frying |
+| Salt |
+| Egg Garnish (jidan) | - | *optional* |
 
-### Sauce
-- Soy Sauce (3.5 tbsp)
-- Sugar (3 tbsp *or less if you want*)(use easy to mix sugar, not sugar crystals)
-- Sesame Oil (2 tbsp)
-- Minced Garlic (2 tbsp)
-- Roasted Sesame Seeds (1 tbsp)
-- Black Pepper (to taste)
+### Sauce Ingredients
+| Ingredient | Quantity | Additional Notes |
+| --- | --- | --- |
+| Soy Sauce | 3.5 tbsp |
+| Sugar | 3 tbsp *or less if you want* | use easy to mix sugar, not sugar crystals |
+| Sesame Oil | 2 tbsp |
+| Minced Garlic | 2 tbsp |
+| Roasted Sesame Seeds | 1 tbsp |
+| Black Pepper | to taste |
 
 ## Instructions
 1. Clean all the ingredients. Cut the carrot into matchsticks. Thinly slice the onion. Run the knife through the white parts of the scallions lengthwise, if thick, and then cut into about 2-inch long pieces. Remove the stems from the mushrooms, and slice into 1/4-inch thin strips. Cut the meat into thin 2-inch long strips.  
