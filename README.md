@@ -3,6 +3,7 @@ A simple repository for all my favorite cooking recipes and those I'd like to tr
 
 ## Recipe Index
 - Asian
+    - [7 Ingredient Ramen](Asian/7IngredientRamen.md) (⭐️⭐️⭐️⭐️⭐️)
     - [Chicken And Broccoli](Asian/ChickenAndBroccoli.md) (⭐️⭐️⭐️⭐️)
     - [Japchae](Asian/Japchae.md) (⭐️⭐️⭐️⭐️⭐️)
     - [Sushi Bake](Asian/SushiBake.md) (⭐️⭐️⭐️⭐️⭐️)
@@ -26,9 +27,6 @@ A simple repository for all my favorite cooking recipes and those I'd like to tr
     - [Chicken Alfredo](Pasta/ChickenAlfredo.md) (⭐️⭐️⭐️⭐️)
     - [Spicy Creamy Shrimp Pasta](Pasta/SpicyCreamyShrimpPasta.md) (⭐️⭐️⭐️⭐️)
     - [Sweet Spaghetti](Pasta/SweetSpaghetti.md) (⭐️⭐️⭐️⭐️⭐️)
-
-- Ramen
-    - [7 Ingredient Ramen](Ramen/7IngredientRamen.md) (⭐️⭐️⭐️⭐️⭐️)
 
 - Salads
     - [Crispy Chicken Tortilla Salad](Salads/CrispyChickenTortillaSalad.md) (⭐️⭐️⭐️⭐️⭐️)
