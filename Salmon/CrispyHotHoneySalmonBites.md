@@ -3,30 +3,50 @@
   <img src="images/crispy-hot-honey-salmon-bites.jpg" width="300" height="400">
 </p>
 
-Rating: ? /5  
-[Instagram Link](https://www.instagram.com/reel/CrTkE0nATGs/?igshid=MzRlODBiNWFlZA%3D%3D)  
-[Recipe Link](https://www.abrightmoment.com/recipes/air-fryer-crispy-hot-honey-salmon-bites)  
+<div align="center">
+  <img src="../graphics/svg/stars-unknown.svg" alt="Rating">
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.instagram.com/reel/CrTkE0nATGs/?igshid=MzRlODBiNWFlZA%3D%3D">
+    <img src="../graphics/svg/link-button-instagram.svg" alt="Instagram Link">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.abrightmoment.com/recipes/air-fryer-crispy-hot-honey-salmon-bites">
+    <img src="../graphics/svg/link-button-recipe.svg" alt="Recipe Link">
+  </a>
+</div>
+
+<br>
 
 ## Ingredients
-*Servings: 2*
-- Salmon (2 fillets, skin removed)
-- Olive Oil (1 tbsp)
-- Garlic Powder (1 tsp)
-- Dried Italian Herb Seasoning (1 tsp)
-- Salt (1 tsp)
-- Sweet Paprika (2 tsp)
-- Panko Breadcrumbs (1/2 cup)
-- Honey (1/4 cup)
-- Hot Sauce (1-2 tbsp)
+*Number of Servings: 2*
+| Ingredient | Quantity | Additional Notes |
+| --- | --- | --- |
+| Salmon | 2 fillets | skin removed |
+| Olive Oil | 1 tbsp |
+| Garlic Powder | 1 tsp |
+| Dried Italian Herb Seasoning | 1 tsp |
+| Salt | 1 tsp |
+| Sweet Paprika | 2 tsp |
+| Panko Breadcrumbs | 1/2 cup |
+| Honey | 1/4 cup |
+| Hot Sauce or Sriracha | 1-2 tbsp |
 
-### "Healthy" Homemade Chipotle Sauce
-- Plain Greek Yogurt (1/2 cup)
-- Mayonnaise (1/4 cup)
-- Chipotle Pepper (1, from canned chipotles in adobo sauce)
-- Garlic Clove (1, peeled)
-- Lime Juice (1 lime)
-- Olive Oil (1 tbsp)
-- Salt & Pepper (to taste)
+### "Healthy" Homemade Chipotle Sauce Ingredients
+| Ingredient | Quantity | Additional Notes |
+| --- | --- | --- |
+| Plain Greek Yogurt | 1/2 cup |
+| Mayonnaise | 1/4 cup |
+| Chipotle Pepper | 1 | from canned chipotles in adobo sauce |
+| Garlic Clove | 1 | peeled |
+| Lime Juice | 1 lime |
+| Olive Oil | 1 tbsp |
+| Salt & Pepper | to taste |
 
 ## Instructions
 1. Combine the panko breadcrumbs and all seasonings into a large container or bowl.

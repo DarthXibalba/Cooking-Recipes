@@ -19,6 +19,7 @@ A simple repository for all my favorite cooking recipes and those I'd like to tr
 - Mexican
     - [Beef Birria Tacos](Mexican/BeefBirriaTacos.md) (⭐️⭐️⭐️⭐️⭐️)
     - [Chicken Mole](Mexican/ChickenMole.md) (⭐️⭐️⭐️)
+    - [Chicken Taquito Flautas](Mexican/ChickenTaquitoFlautas.md) (⭐️⭐️⭐️⭐️⭐️)
     - [Chilaquiles](Mexican/Chilaquiles.md) (⭐️⭐️⭐️⭐️⭐️)
 
 - Pasta
