@@ -3,11 +3,23 @@
   <img src="images/chocolate-covered-strawberries.jpg" width="300" height="400">
 </p>
 
-Rating: :star::star::star::star::star: /5  
-[Recipe Link](https://tastesbetterfromscratch.com/gourmet-chocolate-covered-strawberries/)  
-The quality of chocolate is really important, so go with higher quality **Baking Chocolate** such as Ghirardelli baking chips or Baker's Baking Chocolate
+<div align="center">
+  <img src="../graphics/svg/stars-5.svg" alt="Rating">
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://tastesbetterfromscratch.com/gourmet-chocolate-covered-strawberries/">
+    <img src="../graphics/svg/link-button-recipe.svg" alt="Recipe Link">
+  </a>
+</div>
+
+<br>
 
 ## Tips for Perfect Chocolate Covered Strawberries
+- **Use quality chocolate**
+  - The quality of chocolate is really important, so go with higher quality **Baking Chocolate** such as Ghirardelli baking chips or Baker's Baking Chocolate
 - **Pick good strawberries**
   - Choose firm, ripe strawberries without bruises and if possible, strawberries that are red all the way up to the stem
 - **Use room temperature strawberries and DRY THEM really well**

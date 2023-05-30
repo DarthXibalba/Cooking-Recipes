@@ -3,26 +3,38 @@
   <img src="images/tikka-masala-soup.jpg" width="300" height="400">
 </p>
 
-Rating: ? /5  
-[Website Link](https://themodernproper.com/tikka-masala-soup)  
+<div align="center">
+  <img src="../graphics/svg/stars-unknown.svg" alt="Rating">
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://themodernproper.com/tikka-masala-soup">
+    <img src="../graphics/svg/link-button-recipe.svg" alt="Recipe Link">
+  </a>
+</div>
+
+<br>
 
 ## Ingredients
-- Coconut Oil (2 tbsp)
-- 1 Small Onion, diced
-- Garlic Cloves, minced (3)
-- Cayenne Pepper (1/2 tsp)
-- Garam Masala spice mix (1 tbsp)
-- Ground ginger (1 tsp)
-- Cumin (1/2 tsp)
-- Tumeric (1 tsp)
-- Cinnamon (1/2 tsp)
-- Chicken Stock (2 cups)
-- 1 Can crushed tomatoes (28 oz)
-- 1 Can coconut milk (not lite) (1)
-- Kosher salt (1-2 tsp)
-- 4 cups shredded chicken
-+ Basil
-+ Chicken
+| Ingredient | Quantity | Additional Notes |
+| --- | --- | --- |
+| Coconut Oil | 2 tbsp |
+| Onion | 1 small | diced |
+| Garlic Cloves | 3 cloves | minced |
+| Cayenne Pepper | 1/2 tsp |
+| Garam Masala spice mix | 1 tbsp |
+| Ground ginger | 1 tsp |
+| Cumin | 1/2 tsp |
+| Tumeric | 1 tsp |
+| Cinnamon | 1/2 tsp |
+| Chicken Stock | 2 cups |
+| Crushed tomatoes | 28 oz |
+| Coconut milk (not lite) | 1 can |
+| Kosher salt | 1-2 tsp |
+| Shredded Chicken | 4 cups |
+| Basil |
 
 ## Summary Instructions
 1. Sauté garlic & onion in coconut oil

@@ -1,7 +1,7 @@
 # Cooking Recipes
 A simple repository for all my favorite cooking recipes and those I'd like to try to make.  
 
-## Recipe Index (Tried & Tested)
+## Recipe Index
 - Asian
     - [Chicken And Broccoli](Asian/ChickenAndBroccoli.md) (⭐️⭐️⭐️⭐️)
     - [Japchae](Asian/Japchae.md) (⭐️⭐️⭐️⭐️⭐️)
@@ -47,7 +47,7 @@ A simple repository for all my favorite cooking recipes and those I'd like to tr
     - [Honey Balsamic Roasted Brussel Sprouts](Veggies/HoneyBalsamicRoastedBrusselSprouts.md) (⭐️⭐️⭐️⭐️⭐️)
 
 
-## Recipe Index (Need to try)
+## Recipe Index (Unrated)
 - Appetizers
     - [Crispy Truffle Parmesan Fries](Appetizers/CrispyTruffleParmesanFries.md)
 

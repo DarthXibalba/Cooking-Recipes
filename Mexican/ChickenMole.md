@@ -3,25 +3,40 @@
   <img src="images/chicken-mole.jpg" width="400" height="300">
 </p>
 
-Rating: :star::star::star: /5
-[YouTube Link](https://youtu.be/EGv819tilcw)
+<div align="center">
+  <img src="../graphics/svg/stars-3.svg" alt="Rating">
+</div>
 
-Ingredients: 7 servings  
-- 7 New Mexico or guajillo Chile pods  
-- 1 Chile pasilla  
-- 1/2 small white onion  
-- 1 roma tomato  
-- 1/2 Mexican chocolate disk  
-- 4 garlic cloves  
-- 2 bay leaves   
-- 15 salatine crackers   
-- 1 inch of cinnamon stick  
-- 1 tbsp sesame seeds  
-- 4 all spice  
-- 3 whole cloves  
-- 1/4 tsp whole cumin  
-- 3 lbs chicken  
-- Optional - 1 jar of doña Maria mole sauce  
+<br>
+
+<div align="center">
+  <a href="https://youtu.be/EGv819tilcw">
+    <img src="../graphics/svg/link-button-youtube.svg" alt="YouTube Link">
+  </a>
+</div>
+
+<br>
+
+## Ingredients:
+Makes 7 servings  
+
+| Ingredient | Quantity | Additional Notes |
+| --- | --- | --- |
+| New Mexico or Guajillo Chile Pods | 7 |
+| Chile Pasilla | 1 |
+| Onion | 1/2 small white onion |
+| Roma Tomato | 1 |
+| Mexican Chocolate Disk | 1/2 disk |
+| Garlic Cloves | 4 |
+| Bay Leaves | 2 |
+| Salatine Crackers | 15 |
+| Cinnamon Stick | 1 inch |
+| Sesame Seeds | 1 tbsp |
+| All Spice | 4 |
+| Whole Cloves | 3 |
+| Whole Cumin | 1/4 tsp |
+| Chicken | 3 lbs |
+| Doña Maria Mole Sauce | 1 jar | *optional* |
 
 ## Cook Chicken
 1. In a large pot, add about 16 cups of water, set on high heat

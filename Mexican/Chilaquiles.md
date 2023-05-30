@@ -3,18 +3,34 @@
   <img src="images/chilaquiles.jpg" width="400" height="300">
 </p>
 
-Rating: :star::star::star::star::star: /5  
-- 15 :corn: Tortillas
-- Vegetable Oil
-- Shredded Cheese
-- 5 Roma :tomato:
-- 1-2 Jalapeños or 1-1.5 Serrano Chile Peppers
-- 2 Chile Arbol Leaves (dried pepper)
-- 1/4 Onion sliced into moons
-- 2 Garlic cloves
-- 1/4 tsp Whole Cumin
-- 1/4 tsp Ground Black Pepper
-- 1/4 tsp Salt
+<div align="center">
+  <img src="../graphics/svg/stars-5.svg" alt="Rating">
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://youtu.be/o_tK9tBByOs">
+    <img src="../graphics/svg/link-button-youtube.svg" alt="YouTube Link">
+  </a>
+</div>
+
+<br>
+
+## Ingredients
+| Ingredient | Quantity | Additional Notes |
+| --- | --- | --- |
+| Corn Tortillas | 10-15 |
+| Oil for frying |
+| Shredded Cheese |
+| Roma Tomatoes | 5 |
+| Jalapeño or Serrano | 0.5 - 1 chiles |
+| Chile Arbol Leaves | 2 | dried pepper |
+| Onion | 1/4 of an onion | sliced into moons |
+| Garlic Cloves | 2 |
+| Whole Cumin | 1/4 tsp |
+| Ground Black Pepper | 1/4 tsp |
+| Salt | 1/4 tsp |
 
 ## Fry Tortillas
 1. Cut tortillas into small triangles
@@ -31,7 +47,7 @@ Rating: :star::star::star::star::star: /5
 
 ## Final Product
 1. Add tortilla chips & turn up heat to preserve crunch, mix evenly for a few minutes
-2. (Optional) Add cooked shredded beef or pork
+2. *(optional)* Add cooked shredded beef or pork
 3. Cover with diced or shredded cheese & cover to let the heat melt the cheese
-4. (Optional) Cover with sunny-side-up egg
-5. (Optional) Serve with sliced avocado
+4. *(optional)* Cover with sunny-side-up egg
+5. *(optional)* Serve with sliced avocado
