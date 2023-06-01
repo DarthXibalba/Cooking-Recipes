@@ -25,6 +25,7 @@
 
 ## Ingredients
 *Number of Servings: 2*
+
 | Ingredient | Quantity | Additional Notes |
 | --- | --- | --- |
 | Salmon | 2 fillets | skin removed |

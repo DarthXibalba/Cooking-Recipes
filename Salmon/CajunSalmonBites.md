@@ -7,11 +7,7 @@
   <img src="../graphics/svg/stars-5.svg" alt="Rating">
 </div>
 
-<div align="center">
-  <a href="https://my.whisk.com/recipes/107a9f33ef648c04f3984724ed33f46bdf7">
-    <img src="../graphics/svg/link-button-recipe.svg" alt="Recipe Link">
-  </a>
-</div>
+<br>
 
 <div align="center">
   <a href="https://www.instagram.com/reel/CjJTWWaNsax/?igshid=NjQxMzA2Mjk%3D">
@@ -19,21 +15,29 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://my.whisk.com/recipes/107a9f33ef648c04f3984724ed33f46bdf7">
+    <img src="../graphics/svg/link-button-recipe.svg" alt="Recipe Link">
+  </a>
+</div>
+
+<br>
+
 ## Ingredients
-- Meat
-    - Salmon Fillets (2)
-- Seasonings
-    - Garlic Powder (1/2 tsp)
-    - Black Pepper (1/4 tsp)
-    - Paprika (1/2 tsp)
-    - Olive Oil (1/2 Tbsp)
-    - Cajun Seasoning (3/4 - 1 Tbsp) aka (2.25 - 3 tsp)
-- Sauce
-    - Kewpie Mayo (1/3 cup - 1/2 cup)
-    - Sweet Chili Sauce (1/3 cup)
-    - Sriracha (1-2 Tbsp)
-- Toppings
-    - Green Onions
+*Number of Servings: 2-3*
+
+| Ingredient | Quantity | Additional Notes |
+| --- | --- | --- |
+| Salmon Fillets | 2-3 |
+| Garlic Powder | 1/2 tsp |
+| Black Pepper | 1/4 tsp |
+| Paprika | 1/2 tsp |
+| Cajun Seasoning | 3/4 - 1 Tbsp | same as 2.25-3.0 tsp |
+| Olive Oil | 1/2 Tbsp |
+| Kewpie Mayo | 1/3 cup - 1/2 cup |
+| Sweet Chili Sauce | 1/3 cup |
+| Sriracha | 1-2 Tbsp |
+| Scallions | - | to garnish |
 
 ### Custom Cajun Seasoning
 - Paprika (preferably smoked)
@@ -53,7 +57,7 @@ Using `1/4 tsp` of each will yield `1.75 tsp` of the mix (2.25 tsp with optional
 Using `1/2 tsp` of each will yield `3.5 tsp` of the mix (4.5 tsp with optional seasonings)
 
 
-## Recipe
+## Recipe Instructions
 1. Cut salmon into 2 inch cubes
 2. Add seasonings and mix well to coat the salmon evenly
 3. Add olive oil and mix well
