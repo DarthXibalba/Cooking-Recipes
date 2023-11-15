@@ -45,13 +45,13 @@
 ## Instructions
 1. Prepare your chicken by deboning the thighs and patting the skin dry.
 2. Marinate with the ingredients below for 30mins-1 hr.
-    - 4 tbsp gochujang paste
-    - 1 tbsp gochugaru
-    - 1 tbsp sesame oil
     - 3 tbsp brown sugar (or honey)
-    - 2 tbsp soy sauce
-    - 2 tbsp minced garlic
     - 2-3 tbsp paprika
+    - 1 tbsp gochugaru
+    - 4 tbsp gochujang paste
+    - 2 tbsp minced garlic
+    - 1 tbsp sesame oil
+    - 2 tbsp soy sauce
 3. Preheat airfryer to 400°F for 5-8 mins.
     - This ensures even cooking in the chicken and a juicier interior! Don't skip on this.
 4. After preheating, spray the tray with nonstick oil and lay your chicken skin side down. Airfry for 6-7 mins.
