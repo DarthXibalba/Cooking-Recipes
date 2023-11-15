@@ -1,4 +1,16 @@
 # TODO
+## FUTURE FEATURES
+- Ability to search based off tags:
+    - **Meal Type**: breakfast, lunch, dinner, appetizer, dessert, cocktail, etc.
+    - **Cultural**: Asian, Hispanic, American, Japanese, Mexican, etc.
+    - **Rating**: 5-stars, 4-stars, unknown, etc
+    - **Dietary**: high protein, low calorie, low carb, etc.
+
+- CI/CD script or automation to build README.md from folder structure
+
+---
+
+## RECIPES TO WRITEUP
 ### American
 - [Braised Short Ribs](https://www.tiktok.com/@tinekeyounger/video/7294821107939691822?is_from_webapp=1&sender_device=pc&web_id=7301491565532268062)
 
@@ -11,8 +23,7 @@
 - [Beef Rice Bowl](https://www.facebook.com/reel/1268773623729638)
 
 #### Korean
-- [Gochujang Chicken](https://www.instagram.com/reel/CpiaR_QsjEy/?fbclid=IwAR2HI0t8xfGjNWad0bjEP13F8yAdyd_nxit9DBoMI_WkxWMX7-0EFznLMW0)
-- [Beef Blgogi Recipe](https://www.instagram.com/reel/Cj6w8vzu334/?igshid=MDE2OWE1N2Q%3D&fbclid=IwAR3yRA0JHMi4gn_C4_qPh2MY5fxWRPrZ_iLkxp6BxzL2cm07rGcWYfUIhnU)
+- [Beef Bulgogi Recipe](https://www.instagram.com/reel/Cj6w8vzu334/?igshid=MDE2OWE1N2Q%3D&fbclid=IwAR3yRA0JHMi4gn_C4_qPh2MY5fxWRPrZ_iLkxp6BxzL2cm07rGcWYfUIhnU)
 
 #### Thai
 - [Pad See Ew](https://www.facebook.com/reel/562097902220554)
