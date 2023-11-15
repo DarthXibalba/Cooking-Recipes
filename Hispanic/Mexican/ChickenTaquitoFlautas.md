@@ -4,20 +4,20 @@
 </p>
 
 <div align="center">
-  <img src="../graphics/svg/stars-5.svg" alt="Rating">
+  <img src="../../graphics/svg/stars-5.svg" alt="Rating">
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://www.instagram.com/p/CrC6PMqNBVD/">
-    <img src="../graphics/svg/link-button-instagram.svg" alt="Instagram Link">
+    <img src="../../graphics/svg/link-button-instagram.svg" alt="Instagram Link">
   </a>
 </div>
 
 <div align="center">
   <a href="https://www.tiktok.com/t/ZTREtHPhd/">
-    <img src="../graphics/svg/link-button-tiktok.svg" alt="TikTok Link">
+    <img src="../../graphics/svg/link-button-tiktok.svg" alt="TikTok Link">
   </a>
 </div>
 

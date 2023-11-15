@@ -4,14 +4,14 @@
 </p>
 
 <div align="center">
-  <img src="../graphics/svg/stars-5.svg" alt="Rating">
+  <img src="../../graphics/svg/stars-5.svg" alt="Rating">
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://youtu.be/o_tK9tBByOs">
-    <img src="../graphics/svg/link-button-youtube.svg" alt="YouTube Link">
+    <img src="../../graphics/svg/link-button-youtube.svg" alt="YouTube Link">
   </a>
 </div>
 

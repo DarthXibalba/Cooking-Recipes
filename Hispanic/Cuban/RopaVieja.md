@@ -4,20 +4,20 @@
 </p>
 
 <div align="center">
-  <img src="../graphics/svg/stars-4.svg" alt="Rating">
+  <img src="../../graphics/svg/stars-4.svg" alt="Rating">
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://recipe-integration.whisk.com/recipe-integration/view/107b008fa5d22394b32acc3f7575d17fcc9?utm_source=partner&utm_medium=tiktok&utm_campaign=recipe-integration">
-    <img src="../graphics/svg/link-button-recipe.svg" alt="Recipe Link">
+    <img src="../../graphics/svg/link-button-recipe.svg" alt="Recipe Link">
   </a>
 </div>
 
 <div align="center">
   <a href="https://www.tiktok.com/@letskwoowk/video/7128457768037666053?_r=1&_t=8VfMfXZ8Xpz&is_from_webapp=v1&item_id=7128457768037666053">
-    <img src="../graphics/svg/link-button-tiktok.svg" alt="TikTok Link">
+    <img src="../../graphics/svg/link-button-tiktok.svg" alt="TikTok Link">
   </a>
 </div>
 
