@@ -1,7 +1,4 @@
 # Creamy Mushroom Sauce
-<p align="center">
-  <img src="images/creamy-mushroom-sauce.jpg" width="300" height="400">
-</p>
 
 <div align="center">
   <img src="../graphics/svg/stars-4.svg" alt="Rating">

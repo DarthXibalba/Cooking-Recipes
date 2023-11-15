@@ -1,7 +1,4 @@
-# Crispy Chicken & Tortilla Salad (15 min lunch)
-<p align="center">
-  <img src="images/crispy-chicken-tortilla-salad.jpg" width="300" height="400">
-</p>
+# Crispy Chicken & Tortilla Salad
 
 <div align="center">
   <img src="../graphics/svg/stars-5.svg" alt="Rating">
