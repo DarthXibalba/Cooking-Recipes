@@ -12,10 +12,10 @@ A simple repository for all my favorite cooking recipes and those I'd like to tr
 - [Sushi Bake](Asian/SushiBake.md) (⭐️⭐️⭐️⭐️⭐️)
 
 #### Indian
-- [Tikka Masala Soup](Indian/TikkaMasalaSoup.md)
+- [Tikka Masala Soup](Asian/Indian/TikkaMasalaSoup.md)
 
 #### Japanese
-- [7 Ingredient Ramen](Asian/7IngredientRamen.md) (⭐️⭐️⭐️⭐️⭐️)
+- [7 Ingredient Ramen](Asian/Japanese/7IngredientRamen.md) (⭐️⭐️⭐️⭐️⭐️)
 
 #### Korean
 - [Airfryer Spicy Gochujang Chicken](Asian/Korean/AirfryerSpicyGochujangChicken.md)
@@ -35,12 +35,12 @@ A simple repository for all my favorite cooking recipes and those I'd like to tr
 
 ### Hispanic
 #### Cuban
-- [Ropa Vieja](Cuban/RopaVieja.md) (⭐️⭐️⭐️⭐️)
+- [Ropa Vieja](Hispanic/Cuban/RopaVieja.md) (⭐️⭐️⭐️⭐️)
 #### Mexican
-- [Beef Birria Tacos](Mexican/BeefBirriaTacos.md) (⭐️⭐️⭐️⭐️⭐️)
-- [Chicken Mole](Mexican/ChickenMole.md) (⭐️⭐️⭐️)
-- [Chicken Taquito Flautas](Mexican/ChickenTaquitoFlautas.md) (⭐️⭐️⭐️⭐️⭐️)
-- [Chilaquiles](Mexican/Chilaquiles.md) (⭐️⭐️⭐️⭐️⭐️)
+- [Beef Birria Tacos](Hispanic/Mexican/BeefBirriaTacos.md) (⭐️⭐️⭐️⭐️⭐️)
+- [Chicken Mole](Hispanic/Mexican/ChickenMole.md) (⭐️⭐️⭐️)
+- [Chicken Taquito Flautas](Hispanic/Mexican/ChickenTaquitoFlautas.md) (⭐️⭐️⭐️⭐️⭐️)
+- [Chilaquiles](Hispanic/Mexican/Chilaquiles.md) (⭐️⭐️⭐️⭐️⭐️)
 
 ---
 
