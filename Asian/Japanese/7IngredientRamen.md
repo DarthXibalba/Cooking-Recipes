@@ -4,20 +4,20 @@
 </p>
 
 <div align="center">
-  <img src="../graphics/svg/stars-5.svg" alt="Rating">
+  <img src="../../graphics/svg/stars-5.svg" alt="Rating">
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://prohomecooks.com/blogs/recipes/make-restaurant-ramen-noodles-with-7-common-ingredients?_pos=2&_sid=569dd739f&_ss=r">
-    <img src="../graphics/svg/link-button-recipe.svg" alt="Recipe Link">
+    <img src="../../graphics/svg/link-button-recipe.svg" alt="Recipe Link">
   </a>
 </div>
 
 <div align="center">
   <a href="https://youtu.be/9gNIqtmYg5o?t=50">
-    <img src="../graphics/svg/link-button-youtube.svg" alt="YouTube Link">
+    <img src="../../graphics/svg/link-button-youtube.svg" alt="YouTube Link">
   </a>
 </div>
 
