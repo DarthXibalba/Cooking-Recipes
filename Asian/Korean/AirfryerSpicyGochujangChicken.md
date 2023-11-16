@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  <img src="../../graphics/svg/stars-unknown.svg" alt="Rating">
+  <img src="../../graphics/svg/stars-5.svg" alt="Rating">
 </div>
 
 <br>
@@ -24,18 +24,18 @@
 <br>
 
 ## Ingredients
-*Number of Servings: 4*
+*Number of Servings: 2*
 
 | Ingredient | Quantity |
 | --- | --- |
-| Boneless Skin-on Chicken Thighs | 8 - 10 |
-| Gochujang Paste | 4 tbsp |
-| Gochugaru | 1 tbsp |
-| Sesame Oil | 1 tbsp |
-| Brown Sugar (or Honey) | 3 tbsp |
-| Soy Sauce | 2 tbsp |
-| Minced Garlic | 2 tbsp |
-| Paprika | 2 - 3 tsp |
+| Boneless Skin-on Chicken Thighs | 3-5 |
+| Gochujang Paste | 2 tbsp |
+| Gochugaru | 1/2 tbsp |
+| Brown Sugar (or Honey) | 1.5 tbsp |
+| Sesame Oil | 1/2 tbsp |
+| Soy Sauce | 1 tbsp |
+| Minced Garlic | 1 tbsp |
+| Paprika | 1-1.5 tsp |
 | Spray Cooking | - |
 | Cooked Rice | - |
 | Cucumbers | - |
@@ -45,13 +45,13 @@
 ## Instructions
 1. Prepare your chicken by deboning the thighs and patting the skin dry.
 2. Marinate with the ingredients below for 30mins-1 hr.
-    - 3 tbsp brown sugar (or honey)
-    - 2-3 tbsp paprika
-    - 1 tbsp gochugaru
-    - 4 tbsp gochujang paste
-    - 2 tbsp minced garlic
-    - 1 tbsp sesame oil
-    - 2 tbsp soy sauce
+    - 1-1.5 tsp paprika
+    - 1.5 tbsp brown sugar (or honey)
+    - 1/2 tbsp gochugaru
+    - 1 tbsp minced garlic
+    - 2 tbsp gochujang paste
+    - 1/2 tbsp sesame oil
+    - 1 tbsp soy sauce
 3. Preheat airfryer to 400°F for 5-8 mins.
     - This ensures even cooking in the chicken and a juicier interior! Don't skip on this.
 4. After preheating, spray the tray with nonstick oil and lay your chicken skin side down. Airfry for 6-7 mins.

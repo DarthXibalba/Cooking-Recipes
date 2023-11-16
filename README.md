@@ -18,7 +18,8 @@ A simple repository for all my favorite cooking recipes and those I'd like to tr
 - [7 Ingredient Ramen](Asian/Japanese/7IngredientRamen.md) (⭐️⭐️⭐️⭐️⭐️)
 
 #### Korean
-- [Airfryer Spicy Gochujang Chicken](Asian/Korean/AirfryerSpicyGochujangChicken.md)
+- [Airfryer Spicy Gochujang Chicken](Asian/Korean/AirfryerSpicyGochujangChicken.md) (⭐️⭐️⭐️⭐️⭐️)
+- [Cucumber Kimchi](Asian/Korean/CucumberKimchi.md) (⭐️⭐️⭐️⭐️⭐️)
 - [Japchae](Asian/Korean/Japchae.md) (⭐️⭐️⭐️⭐️⭐️)
 
 ---
