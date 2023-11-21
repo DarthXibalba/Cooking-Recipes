@@ -34,6 +34,16 @@ A simple repository for all my favorite cooking recipes and those I'd like to tr
 
 ---
 
+### Desserts
+- [Chocolate Strawberries](Desserts/ChocolateStrawberries.md) (⭐️⭐️⭐️⭐️⭐️)
+
+---
+
+### High Protein
+- [High Protein Chicken Shawarma with Potato Fries](HighProtein/HighProteinChickenShawarmaWithPotatoFries.md) (⭐️⭐️⭐️⭐️⭐️)
+
+---
+
 ### Hispanic
 #### Cuban
 - [Ropa Vieja](Hispanic/Cuban/RopaVieja.md) (⭐️⭐️⭐️⭐️)
@@ -42,11 +52,6 @@ A simple repository for all my favorite cooking recipes and those I'd like to tr
 - [Chicken Mole](Hispanic/Mexican/ChickenMole.md) (⭐️⭐️⭐️)
 - [Chicken Taquito Flautas](Hispanic/Mexican/ChickenTaquitoFlautas.md) (⭐️⭐️⭐️⭐️⭐️)
 - [Chilaquiles](Hispanic/Mexican/Chilaquiles.md) (⭐️⭐️⭐️⭐️⭐️)
-
----
-
-### Desserts
-- [Chocolate Strawberries](Desserts/ChocolateStrawberries.md) (⭐️⭐️⭐️⭐️⭐️)
 
 ---
 
@@ -83,6 +88,8 @@ A simple repository for all my favorite cooking recipes and those I'd like to tr
 - [Honey Balsamic Roasted Brussel Sprouts](Veggies/HoneyBalsamicRoastedBrusselSprouts.md) (⭐️⭐️⭐️⭐️⭐️)
 
 ---
+
+## [Recipes Not Yet Written Up](TODO.md#recipes-to-writeup)
 
 ## Notable Recipe Websites
 #### [The Savory Chopstick](https://www.thesavorychopstick.com/)

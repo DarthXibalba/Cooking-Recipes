@@ -58,7 +58,6 @@
 ### High Protein
 - [High Protein Creamy Chicken Alfredo](https://www.instagram.com/p/CtroXUsO4Wn/?igshid=MzRlODBiNWFlZA%3D%3D&fbclid=IwAR0v9-MeadW88HCD2o-IEpwa1nFz2fRrJrvztaPodk7NN16hlIK6A5JW7g8&img_index=1)
 - [High Protein Creamy Tuscan Chicken](https://www.instagram.com/p/CtroXUsO4Wn/?igshid=MzRlODBiNWFlZA%3D%3D&fbclid=IwAR0v9-MeadW88HCD2o-IEpwa1nFz2fRrJrvztaPodk7NN16hlIK6A5JW7g8&img_index=2)
-- [High Protein Chicken Shawarma with Potato Fries](https://www.instagram.com/reel/Cix53amjGj_/?igshid=MDVlOGU2MWU%3D&fbclid=IwAR1Johol6icU6fWkN-NIu4olmzlxu56-rZ0ZgE7v3cfL_iFYRzC__Gkwvxg)
 - [Hot Honey Chicken and Rice with Guacamole](https://www.instagram.com/reel/CjQoyBmjqc4/?igshid=MDVlOGU2MWU%3D&fbclid=IwAR2TwxAvhjIb6a205tFGf0LBSQWx8Rd-jnE8ZCY2rCBypXEynGIlbImbzVs)
 - [Low Calorie Chicken Biryani](https://www.instagram.com/reel/CiVcjOBDm3f/?igshid=MDE2OWE1N2Q%3D&fbclid=IwAR0eAWjYkIbYpFd8RY-9xKRLsoi2LzxapzgSUr6Ei9a9TyXBidFhOFK-h6Y)
 
