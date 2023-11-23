@@ -23,14 +23,15 @@
 | Ingredient | Quantity | Additional Notes |
 | --- | --- | --- |
 | Persian Cucumbers | 4 | cut into coins |
-| Salt | 1-1.5 tsp | |
-| Minced Garlic | 3-6 cloves | |
-| Onion (white) | 1/8 - 1/4 an onion | cut into bite-sized crescents |
-| Green Onions | 2-3 green onions | cut into longer, bite-sized strips, or small circle cuts (traditional cut) |
-| Sugar (fine, white) | 1 tsp |
-| Gochugaru | 1 tbsp |
-| Rice Wine Vinegar | 2 tbsp |
-| Sesame Oil | 2 tbsp |
+| ***(Alternative)*** Regular Cucumbers | 1.5 - 2 | cut into half coins |
+| Salt | 1.5 - 2 tsp | |
+| Minced Garlic | 3 - 6 cloves | |
+| Onion *(white)* | 1/8 - 1/4 an onion | cut into bite-sized crescents |
+| Green Onions | 2 - 3 green onions | cut into longer, bite-sized strips, or small circle cuts (traditional cut) |
+| Sugar *(fine, white)* | 1.5 - 2 tsp |
+| Gochugaru | 2 - 2.5 tsp |
+| Rice Wine Vinegar | 1 tbsp |
+| Sesame Oil | < 2 tbsp |
 | Sesame Seeds | for texture |
 
 ## Instructions
