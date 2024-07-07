@@ -32,6 +32,7 @@
 ### Breakfast
 - [Banana Breakfast Surprise](https://www.facebook.com/reel/1534036717354461)
 - [French Toast Bites](https://www.facebook.com/reel/3147338025564113)
+- [Savory Ham and Egg Breakfast Sliders](Breakfast/SavoryHamAndEggBreakfastSliders.md)
 
 ### Chicken
 - [Ginger Glazed Chicken](https://www.facebook.com/reel/158887443706568)
@@ -65,6 +66,9 @@
 - [Homemade In-N-Out](https://www.facebook.com/reel/3537121033205960)
 - [The Perfect Pizza Roll](https://www.instagram.com/reel/Cu96UYNLkk7/?fbclid=IwAR2fDNqEXOVGB5BSW9rN3-WN4NmlYQOolrlqh1gPBQ_8ScoJRX9q3FEuaTQ)
 - [Turkey Bacon Ranch Hawaiian Bread Sliders](https://www.instagram.com/reel/ClBxwvJAEJu/?igshid=MDVlOGU2MWU%3D&fbclid=IwAR0pLHxx0F8Ldp4keapkWiK5MDK7x0D_YGxSNBmnocSYFtHVFujbzDp2Xkc)
+
+#### Indian
+- [Tikka Masala Soup](Asian/Indian/TikkaMasalaSoup.md)
 
 ### Mexican
 - [Authentic Carne Asada Tacos](https://www.facebook.com/reel/3438226636430243)

@@ -11,9 +11,6 @@ A simple `markdown` repository for all my favorite cooking recipes and those I'd
 - [Chicken And Broccoli](Asian/ChickenAndBroccoli.md) (⭐️⭐️⭐️⭐️)
 - [Sushi Bake](Asian/SushiBake.md) (⭐️⭐️⭐️⭐️⭐️)
 
-#### Indian
-- [Tikka Masala Soup](Asian/Indian/TikkaMasalaSoup.md)
-
 #### Japanese
 - [7 Ingredient Ramen](Asian/Japanese/7IngredientRamen.md) (⭐️⭐️⭐️⭐️⭐️)
 
@@ -21,11 +18,6 @@ A simple `markdown` repository for all my favorite cooking recipes and those I'd
 - [Airfryer Spicy Gochujang Chicken](Asian/Korean/AirfryerSpicyGochujangChicken.md) (⭐️⭐️⭐️⭐️⭐️)
 - [Cucumber Kimchi](Asian/Korean/CucumberKimchi.md) (⭐️⭐️⭐️⭐️⭐️)
 - [Japchae](Asian/Korean/Japchae.md) (⭐️⭐️⭐️⭐️⭐️)
-
----
-
-### Breakfast
-- [Savory Ham and Egg Breakfast Sliders](Breakfast/SavoryHamAndEggBreakfastSliders.md)
 
 ---
 
@@ -52,6 +44,13 @@ A simple `markdown` repository for all my favorite cooking recipes and those I'd
 - [Chicken Mole](Hispanic/Mexican/ChickenMole.md) (⭐️⭐️⭐️)
 - [Chicken Taquito Flautas](Hispanic/Mexican/ChickenTaquitoFlautas.md) (⭐️⭐️⭐️⭐️⭐️)
 - [Chilaquiles](Hispanic/Mexican/Chilaquiles.md) (⭐️⭐️⭐️⭐️⭐️)
+
+---
+
+### Meal Prep Recipes
+- [Ziti / Penne Bake](https://www.loveandlemons.com/baked-ziti/)
+- [Roasted Red Pepper Hummus Wrap](https://www.budgetbytes.com/roasted-red-pepper-hummus-wraps/)
+- [Chicken, String Beans, & Mashed Potatoes](https://www.budgetbytes.com/air-fryer-chicken-breast/)
 
 ---
 
