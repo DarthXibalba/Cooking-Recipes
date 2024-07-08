@@ -48,7 +48,7 @@ A simple `markdown` repository for all my favorite cooking recipes and those I'd
 ---
 
 ### Meal Prep Recipes
-- [Ziti / Penne Bake](MealPrep/ziti-penne-bake.md)
+- [Penne Lasagna Bake](MealPrep/penne-lasagna-bake.md) (⭐️⭐️⭐️⭐️⭐️)
 - [Roasted Red Pepper Hummus Wrap](https://www.budgetbytes.com/roasted-red-pepper-hummus-wraps/)
 - [Chicken, String Beans, & Mashed Potatoes](https://www.budgetbytes.com/air-fryer-chicken-breast/)
 
