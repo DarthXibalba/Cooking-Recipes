@@ -20,23 +20,23 @@
 ## Ingredients
 | Ingredient | Quantity | Additional Notes |
 | --- | --- | --- |
-| Pasta | 1 lb (1 box) | Ziti, Penne, or Rigatoni |
+| Pasta | 1 lb (1 box) | Penne, Ziti, or Rigatoni |
 | Marinara Sauce | 4-6 cups (2 jars of sauce) | |
 | Tomato Paste | 1 can |
 | Ricotta Cheese | 2 cups (16 oz) |
 | Garlic | 2 cloves | minced |
 | Lemon Zest | 1 tbsp | grate 1 full lemon |
 | Oregano | 1 tsp |
-| Red Pepper Flakes | 1 tsp |
+| Red Pepper Flakes | ½ tsp |
 | Sea Salt | ½ tsp |
-| Black Pepper | 1/4 tsp | ground |
+| Black Pepper | ¼ tsp | ground |
 | Olive Oil |
-| Onion |
+| Onion | ¼ - ½ an onion |
 | Ground Beef |
 | Spinach | 1 lb |
 | Mushrooms | optional |
 | Mozzarella Cheese | 1 ½ cups grated cheese |
-| Parmesan Cheese | 1/4 cup grated cheese | and/or pecorino cheese |
+| Parmesan Cheese | ¼ cup grated cheese | and/or pecorino cheese |
 | Parsley | optional garnish | chopped |
 | Basil | optional garnish | torn basil leaves |
 
