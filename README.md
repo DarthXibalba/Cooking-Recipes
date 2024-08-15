@@ -85,7 +85,7 @@ A simple `markdown` repository for all my favorite cooking recipes and those I'd
 
 ### Veggies
 - [Corn on the Cob](Veggies/CornOnTheCob.md) (⭐️⭐️⭐️⭐️⭐️)
-- [Ducal-Style Beans](Veggies/DucalStyleBeans)(⭐️⭐️⭐️⭐️⭐️)
+- [Ducal-Style Beans](Veggies/DucalStyleBeans.md)(⭐️⭐️⭐️⭐️⭐️)
 - [Honey Balsamic Roasted Brussel Sprouts](Veggies/HoneyBalsamicRoastedBrusselSprouts.md) (⭐️⭐️⭐️⭐️⭐️)
 - [Mashed Potatoes](Veggies/MashedPotatoes.md) (⭐️⭐️⭐️⭐️⭐️)
 
