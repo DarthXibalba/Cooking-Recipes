@@ -25,6 +25,6 @@
 1. If your Instant Pot has a **Beans** option use that, otherwise cook on **HIGH** for 45 minutes.
 1. Once the beans are cooked, release the pressure from the Instant Pot and give it a few minutes to cool down.
 1. Add the seasonings (salt, cumin, oregano) and liquidate the mix with an Immersion Blender or similar kitchen tool.
-1. Once fully liquidated, transfer over the contents of the Instant Pot into a pot that can be used on a stove top and heat on medium-low for 30-40 minutes.
+1. Once fully liquidated, transfer over the contents of the Instant Pot into a pot that can be used on a stove top and heat on low for 40-45 minutes.
 1. Stir constantly so that the beans do not burn. Stir until the beans reach the desired consistency.
 1. Enjoy & store in the refridgerator for later!
