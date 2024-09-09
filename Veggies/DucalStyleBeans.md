@@ -9,6 +9,7 @@
 ## Ingredients
 | Ingredient | Quantity | Additonal Notes |
 | --- | --- | --- |
+| Water | 5 cups | |
 | Beans | 2 cups | Washed whole beans, can be *black*, *pinto*, or *red* beans |
 | Onion | ½ an onion | Sliced into crescent pieces, can be *white* or *yellow* onion |
 | Garlic | 3 good sized cloves | peeled, slightly crushed |
