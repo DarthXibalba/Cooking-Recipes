@@ -56,7 +56,7 @@ A simple `markdown` repository for all my favorite cooking recipes and those I'd
 
 ### Pasta
 - [Chicken Alfredo](Pasta/ChickenAlfredo.md) (⭐️⭐️⭐️⭐️)
-- [Creamy Mac & Cheese](Pasta/CreamyMac&Cheese.md)
+- [Creamy Mac & Cheese](Pasta/CreamyMac&Cheese.md) (⭐️⭐️⭐️⭐️⭐️)
 - [Spicy Creamy Shrimp Pasta](Pasta/SpicyCreamyShrimpPasta.md) (⭐️⭐️⭐️⭐️)
 - [Sweet Spaghetti](Pasta/SweetSpaghetti.md) (⭐️⭐️⭐️⭐️⭐️)
 

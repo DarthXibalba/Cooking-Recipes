@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  <img src="../graphics/svg/stars-unknown.svg" alt="Rating">
+  <img src="../graphics/svg/stars-5.svg" alt="Rating">
 </div>
 
 <br>
@@ -34,8 +34,8 @@
 | Heavy Cream | 6 cups |
 | Salted Butter | 4 tbsp |
 | Cream Cheese | 4 oz | *optional* |
-| Salt | 2 tsp |
-| Chicken Bouillon | 2 tsp |
+| Chicken Bouillon | 1 cube |
+| Salt | 0-1 tsp |
 | Onion Powder | 1 tsp |
 | Ground Mustard | 1 tsp |
 | White Pepper | 1 tsp |
@@ -46,7 +46,7 @@
 1. Cook your macaroni noodles following the instructions on the package. Enhance the water with chicken bouillon for added flavor.
 1. In a spacious sauce pot, melt butter on low heat, and gradually pour in the heavy cream. Whisk the mixture smoothly.
 1. Gradually incorporate approximately **50%** of your shredded cheeses until well blended. Introduce cream cheese last, allowing the cheese to melt and simmer on low heat.
-1. Season cheese sauce with salt, chicken bouillon, onion powder, ground mustard, white pepper and adobo. Taste to perfection. Cheese sauce should look wet & creamy.
+1. Taste the cheese sauce and if needed, season cheese sauce with salt, onion powder, ground mustard, white pepper and adobo. Taste to perfection. Cheese sauce should look wet & creamy.
 1. Begin ladeling the cheese sauce over the cooked elbow noodles and set **25%** cheese sauce aside to be used for coating the 2 layers.
 1. Toss in the small extra chunks of cheese. Aim for a creamy, wet mixture that produces a satisfying sound when mixed.
 1. Grab a 13x9 baking dish, remember we are making two layers, and start the first layer with half of your noodles, & layer with a coating of cheese sauce and shredded cheese.
