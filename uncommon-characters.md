@@ -4,7 +4,7 @@
 | Sauté | é |
 | - | |
 | Half | ½ |
-| Third | |
+| Third | ⅓ |
 | Quarter | ¼ |
 | Three Quarters | ¾ |
 | - | - |
