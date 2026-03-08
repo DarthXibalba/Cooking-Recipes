@@ -11,6 +11,11 @@ A simple `markdown` repository for all my favorite cooking recipes and those I'd
 - [Chicken And Broccoli](Asian/ChickenAndBroccoli.md) (⭐️⭐️⭐️⭐️)
 - [Sushi Bake](Asian/SushiBake.md) (⭐️⭐️⭐️⭐️⭐️)
 
+#### Filipino
+- [Easy Chicken Adobo](Asian/Filipino/EasyChickenAdobo.md)
+- [Mechado](Asian/Filipino/Mechado.md)
+- [Tinolang Manok](Asian/Filipino/TinolangManok.md)
+
 #### Japanese
 - [7 Ingredient Ramen](Asian/Japanese/7IngredientRamen.md) (⭐️⭐️⭐️⭐️⭐️)
 
