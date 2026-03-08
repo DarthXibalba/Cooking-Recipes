@@ -18,19 +18,18 @@
 <br>
 
 ## Ingredients
-
 | Ingredient | Quantity | Additional Notes |
 | --- | --- | --- |
 | Chicken | 2 lbs | *sliced into serving pieces* |
 | Knorr Chicken Cube | 1 piece |
 | Garlic | 1 head | *crushed* |
-| White Vinegar | 6 tbsp |
-| Soy Sauce | 6 tbsp |
+| White Vinegar | 6 TBSP |
+| Soy Sauce | 6 TBSP |
 | Whole Peppercorn | 1 ½ tsp |
 | Dried Bay Leaves | 5 pieces |
 | Water | ½ cup |
 | Sugar | 1 tsp |
-| Cooking Oil | 4 tbsp |
+| Cooking Oil | 4 TBSP |
 
 ## Instructions
 1. Combine chicken, ¼ of the total amount of garlic, whole peppercorn, dried bay leaves, soy sauce, vinegar, and water in a cooking pot. Cover and let boil. Stir and make sure that all ingredients are well blended.
