@@ -9,6 +9,14 @@
 - CI/CD script or automation to build README.md from folder structure
 
 ---
+## Krizzia's Recipes
+- [Spam Musubi](https://www.instagram.com/p/DJ932qPSzlA/)
+- [Spam Musubi w/ Egg](https://www.instagram.com/p/DVtMB4PDWsv/)
+- [Salmon Sushi Roll](https://www.instagram.com/p/DX6yU5xOSiN/)
+- [Creamy Tomato Pasta](https://www.instagram.com/p/DX6yU5xOSiN/)
+  - [Recipe](https://www.fridasofiaeats.com/recipes/creamy-tomato-pasta)
+
+---
 
 ## RECIPES TO WRITEUP
 ### American
